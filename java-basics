@@ -1,0 +1,1 @@
+This program accepts a person's age as input and checks whether the person is eligible to vote. If the age is 18 or above, the person is eligible to vote; otherwise, the person is not eligible.
